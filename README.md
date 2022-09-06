@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrithik Puri
-- I'm currently in Final year of my Btech(Computer Science)
+- I'm currently a Graduate student at Northeastern University 
 - 👀 I’m interested Python Programing 
 - 🌱 I’m currently learning Data Science,Machine Learning 
 - 💞️ I’m looking to collaborate on projects based Data Science and Machine Learning 
