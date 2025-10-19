@@ -1,51 +1,80 @@
-# Hrithik Puri - Data Scientist  
-🎯 **Driven by data, powered by innovation**  
+# 👋 Hi, I’m Hrithik Puri — Data Scientist & Software Engineer  
+🎯 **Transforming data into intelligent, actionable solutions**  
 
-Hi there! I'm Hrithik Puri, a passionate Data Scientist with expertise in advanced analytics, machine learning, and data-driven decision-making. My background in Data Analytics and Engineering from Northeastern University fuels my enthusiasm for solving complex problems through data science.  
-
----
-
-## 🛠️ **Tech Stack & Expertise**
-- **Programming**: Python, R, SQL  
-- **Machine Learning**: Regression, Classification, Deep Learning (ResNet50, CNNs)  
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
-- **Big Data**: Hadoop, Spark  
-- **Cloud Platforms**: AWS, GCP  
-- **Specializations**:  
-  - Predictive Modeling  
-  - Image Classification  
-  - Data Wrangling & Cleaning  
+Welcome to my GitHub! I’m **Hrithik Puri**, a **Data Scientist and Software Engineer** passionate about solving complex problems with data, machine learning, and scalable systems. I recently completed my **Master’s in Data Analytics Engineering** from **Northeastern University**, and I thrive on building intelligent systems that drive real business impact.  
 
 ---
 
-## 🔍 **What I'm Working On**
-- Building a **ResNet50 image classification model** for multi-class categorization.  
-- Exploring **AI-driven pricing strategies** and **game analytics** using machine learning.  
-- Actively contributing to innovative data science challenges, including the **C3 AI Data Science Challenge**.  
+## 🧠 **Core Expertise**
+- **Languages:** Python, R, SQL, C/C++  
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, LangChain, Gen AI, RAG, FAISS  
+- **Analytics & Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Power BI, Tableau, A/B Testing, Statistics  
+- **Data Engineering:** Apache Airflow, PySpark, dbt, Databricks, ETL Pipelines, CI/CD  
+- **Databases:** MySQL, PostgreSQL, MongoDB, Snowflake  
+- **Cloud & DevOps:** AWS (S3, EC2, Aurora, VPC), Azure, Docker, GitHub Actions, Azure DevOps  
+- **Certifications:** AWS Academy Graduate — Cloud Architecting & Cloud Foundations  
 
 ---
 
-## 📌 **Career Highlights**
-- Designed and trained a ResNet50 model for image classification using a 7-class dataset.  
-- Collaborated with interdisciplinary teams to develop machine learning solutions for forecasting and analytics.  
-- Applied cutting-edge analytics at organizations like Niantic, Ford Motors, and Root Inc.  
+## 🚀 **Experience Highlights**
+
+### 💼 Software Engineer | Serigor | Baltimore, MD *(Mar 2025 – Present)*  
+- Trained a **GenAI Tax Model** using Python, RAG, FAISS on financial data, ensuring compliance guardrails — boosting **tax validation accuracy** and cutting manual audit review time by **30%**.  
+- Optimized **SQL Server stored procedures** in **Azure DevOps**, reducing job matching time by **70%**, and created **Tableau dashboards** analyzing data for **600K+ students** across school districts.  
+
+### 💼 Data Scientist | Pinnacle IT Solutions | Brighton, CO *(Nov 2024 – Feb 2025)*  
+- Designed and deployed an **ML-based patient churn model** with Scikit-learn, reducing attrition by **35%** and increasing retention revenue.  
+- Automated **ETL pipelines** using **Airflow DAGs**, Python, and **Snowflake**, reducing data processing time by **60%** while maintaining HIPAA compliance.  
+
+### 💼 Data Scientist | Veeco Instruments | San Jose, CA *(Jul 2023 – Dec 2023)*  
+- Conducted **statistical analysis** using Pandas and NumPy on semiconductor manufacturing data, improving **throughput efficiency by 20%**.  
+- Built a **TensorFlow-based predictive model** to detect wafer breakage, improving **defect detection accuracy by 25%** and saving approximately **$1.2M annually**.  
+
+### 💼 Software Engineer | SYMB Technologies | Noida, India *(Sep 2021 – Feb 2022)*  
+- Engineered **SQL + Flask data pipelines**, improving API response time by **30%** and enabling **real-time analytics** for clients.  
+- Deployed **CI/CD pipelines** on AWS (S3, ECR, EC2) via GitHub Actions, cutting deployment time by **40%**.  
+
+### 💼 Data Analyst | Ducat India | Noida, India *(Apr 2021 – Aug 2021)*  
+- Built **Power BI dashboards** for 300K+ student feedback records, improving program effectiveness by **20%**.  
+- Conducted **A/B testing** on 5,000+ participants, increasing student engagement by **22%**.  
 
 ---
 
-## 🌐 **Let's Connect!**
-- LinkedIn: [linkedin.com/in/hrithik-puri](https://www.linkedin.com/in/hrithik-puri/)  
-- Email: hrithikpuri16@gmail.com 
+## 🧩 **Featured Projects**
+
+### 🧠 [Enterprise Knowledge Assistant](https://github.com/hrik21/Enterprise-Knowledge-Assistant-using-Gemini-LLM---RAG-)  
+*Technologies:* Gemini LLM, LangChain, FAISS, Streamlit, Docker  
+- Built a **RAG-powered AI agent** for enterprise document retrieval, cutting search time by **65%** and improving decision-making efficiency.  
+
+### 🩺 [Derma Vision](https://github.com/hrik21/NNDL_Project)  
+*Technologies:* Python, TensorFlow, Scikit-learn, CNN  
+- Developed a **ResNet50-based CNN model** for skin lesion classification using transfer learning and data augmentation, achieving **67.76% accuracy** on test data.  
+
+### ☁️ [Scalable AWS Web App Migration](https://github.com/hrik21/Scalable-AWS-Web-App-Migration-)  
+*Technologies:* AWS Aurora, EC2, VPC, Auto Scaling  
+- Architected a **multi-AZ AWS infrastructure**, achieving **85% system uptime** and enabling secure, scalable web app deployment.  
+
+---
+
+## 🎓 **Education**
+🎓 **Northeastern University**, Boston, MA  
+*Master of Science in Data Analytics Engineering* (2022 – 2024)  
+
+🎓 **Uttar Pradesh Technical University**, Noida, India  
+*Bachelor of Technology in Computer Science Engineering* (2018 – 2022)  
+
+---
+
+## 🌐 **Let’s Connect**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/puri-hrithik/)  
+- 💻 [GitHub](https://github.com/hrik21)  
+- ✉️ hrithikpuri00@gmail.com  
 
 ---
 
 ## ⚡ **Fun Fact**
-I'm not just about the numbers—I enjoy brainstorming innovative ideas and seeing how data can transform decision-making processes. When I’m not coding, you’ll find me exploring new cuisines or solving puzzles.  
+When I’m not building machine learning models, I’m probably exploring **new cuisines**, **solving brain teasers**, or experimenting with **GenAI apps** that make everyday tasks more efficient.  
 
 ---
 
-Feel free to explore my projects, fork repositories, or get in touch for collaboration opportunities!
-
-<!---
-hrik21/hrik21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ *Feel free to explore my projects, fork repositories, or connect if you’d like to collaborate on AI, ML, or data-driven innovation!*  
